@@ -13,7 +13,7 @@
                            <p class="textod"> Entre nuestras instalaciones se encuentra una piscina climatizada de la que podrás disfrutar en cualquier momento, para ejercitarte o relajarte dependiendo del momento</p>
                             </div>
                             <div class="intf">
-                            <img width="600px" height="550px" style="margin-bottom: 20px" src="http://localhost/elmonte/public/storage/img/piscina.jpg">
+                            <img width="600px" height="550px" style="margin-bottom: 20px" src="{{asset('/storage/img/piscina.jpg')}}">
 
                             </div>
                         </div>
